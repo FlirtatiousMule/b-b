@@ -1,0 +1,44 @@
+{   
+   "name": "Beholders-Broomsticks",   
+   "title": "Beholders & Broomsticks",   
+   "description": "Maps, tables and more for the DnD 5e system.",   
+   "author": "Flirtatious Mule",
+   "version": "1.0.1",
+   "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion":"0.7.9",
+   "packs": [
+    {
+      "name": "scenes",
+      "label": "B&B Scenes",
+      "path": "packs/scenes.db",
+      "entity": "Scene",
+      "module": "Beholders-Broomsticks"
+    },
+    {         
+   "name": "journalentries",
+   "label": "B&B Journals",
+   "path": "packs/journalentries.db",
+   "entity": "JournalEntry",
+   "module": "Beholders-Broomsticks"
+   },
+   {         
+   "name": "rolltables",
+   "label": "B&B RollTables",
+   "path": "packs/rolltables.db",
+   "entity": "RollTable",
+   "module": "Beholders-Broomsticks"
+   },
+
+    {         
+   "name": "macros",
+   "label": "B&B Macros",
+   "path": "packs/macros.db",
+   "entity": "Macro",
+   "module": "Beholders-Broomsticks"
+   }
+  ],
+  "url": "https:/www.beholdersandbroomsticks.com/",
+  "manifest": "https://github.com/FlirtatiousMule/b-b/blob/main/module.json",
+  "download": "https://www.beholdersandbroomsticks.com/wp-content/uploads/2021/01/Beholders-Broomsticks101.zip"
+}
+ }
