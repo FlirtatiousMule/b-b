@@ -1,43 +1,84 @@
 {
-	"name": "Beholders-Broomsticks",
-	"title": "Beholders & Broomsticks",
+	"name": "Flirtatious-Foundry",
+	"title": "Flirtatious Foundry",
 	"description": "Maps, tables and more for the DnD 5e system.",
 	"author": "Flirtatious Mule",
-	"version": "1.0.1",
-	"system": "dnd5e",
+	"version": "1.1.0",
 	"minimumCoreVersion": "0.5.0",
 	"compatibleCoreVersion": "0.7.9",
+	"scripts": [ "scripts/ff.js" ],
 	"packs": [{
-			"name": "scenes",
-			"label": "B&B Scenes",
-			"path": "packs/scenes.db",
+			"name": "item",
+			"label": "FF Items",
+			"path": "packs/genitems.db",
+			"entity": "Item",
+			"module": "Flirtatious-Foundry"
+		},
+{
+			"name": "wditems",
+			"label": "FF Waterdeep Items",
+			"path": "packs/wditems.db",
+			"entity": "Item",
+			"module": "Flirtatious-Foundry"
+		},
+		{
+			"name": "waterdeepscenes",
+			"label": "FF Waterdeep Scenes",
+			"path": "packs/wdscenes.db",
 			"entity": "Scene",
-			"module": "Beholders-Broomsticks"
+			"module": "Flirtatious-Foundry"
+		},
+{
+			"name": "generalscenes",
+			"label": "FF Scenes",
+			"path": "packs/generalscenes.db",
+			"entity": "Scene",
+			"module": "Flirtatious-Foundry"
 		},
 		{
-			"name": "journalentries",
-			"label": "B&B Journals",
-			"path": "packs/journalentries.db",
+			"name": "whjournalentries",
+			"label": "FF Waterdeep Holidays",
+			"path": "packs/whjournalentries.db",
 			"entity": "JournalEntry",
-			"module": "Beholders-Broomsticks"
+			"module": "Flirtatious-Foundry"
 		},
 		{
-			"name": "rolltables",
-			"label": "B&B RollTables",
-			"path": "packs/rolltables.db",
+			"name": "wejournalentries",
+			"label": "FF Waterdeep Encounters",
+			"path": "packs/wejournalentries.db",
+			"entity": "JournalEntry",
+			"module": "Flirtatious-Foundry"
+		},
+		{
+			"name": "genjournalentries",
+			"label": "FF Journals",
+			"path": "packs/genjournalentries.db",
+			"entity": "JournalEntry",
+			"module": "Flirtatious-Foundry"
+		},
+		{
+			"name": "combatrolltables",
+			"label": "FF Combat RollTables",
+			"path": "packs/combatrolltables.db",
 			"entity": "RollTable",
-			"module": "Beholders-Broomsticks"
+			"module": "Flirtatious-Foundry"
 		},
-
 		{
-			"name": "macros",
-			"label": "B&B Macros",
-			"path": "packs/macros.db",
-			"entity": "Macro",
-			"module": "Beholders-Broomsticks"
+			"name": "npcdialogrolltables",
+			"label": "FF NPC Dialog RollTables",
+			"path": "packs/npcdialogrolltables.db",
+			"entity": "RollTable",
+			"module": "Flirtatious-Foundry"
+		},
+		{
+			"name": "item-shoprolltables",
+			"label": "FF Item & Shop Rolltables",
+			"path": "packs/item-shoprolltables.db",
+			"entity": "RollTable",
+			"module": "Flirtatious-Foundry"
 		}
 	],
-	"url": "https://github.com/FlirtatiousMule/b-b",
-	"manifest": "https://raw.githubusercontent.com/FlirtatiousMule/b-b/bnb/module.json",
-	"download": "https://github.com/FlirtatiousMule/b-b/releases/download/bnb/Beholders-Broomsticks101.zip"
+	"url": "https://github.com/FlirtatiousMule/flirtatiousfoundry",
+	"manifest": "https://raw.githubusercontent.com/FlirtatiousMule/flirtatiousfoundry/main/module.json",
+	"download": "https://github.com/FlirtatiousMule/flirtatiousfoundry/releases/download/FF/Flirtatious-Foundry110.zip"
 }
