@@ -1,5 +1,5 @@
 <h2><strong><img src="https://www.beholdersandbroomsticks.com/wp-content/uploads/2021/01/Logo.png" /></strong><strong>Flirtatious Foundry 1.1.0</strong></h2>
-<p><strong>Formerly Beholders and Broomsticks, now back and bigger than ever, with 13 maps total, and many RollTables, a better organization structure with much more to come!</strong></p>
+<p><strong>Formerly Beholders and Broomsticks, now back and bigger than ever, with 13 maps total, and many RollTables, a better organization structure with much more to come!<p>What is this? It's a collection of maps, currently with a heavy dnd focus but looking to expand, as well as Rolltables, and journal entries I've compiled from various sources official, and non official.  I'll be expanding upon it on a regular basis. Adding more maps and tables and other things. </strong></p>
 <p>&nbsp;</p>
 <p><strong>Please uninstall the old module before installing this update as the directory and file structure has completely changed.</strong></p>
 <h2><a id="user-content-changelog" class="anchor" href="https://github.com/FlirtatiousMule/flirtatiousfoundry/blob/main/README.md#changelog" aria-hidden="true"></a>Changelog</h2>
