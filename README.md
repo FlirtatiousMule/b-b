@@ -1,4 +1,4 @@
-<h2><strong><img src="https://www.patreon.com/file?h=45653538&i=7180011"/></strong><strong>Flirtatious Foundry Maps</strong></h2>
+<h2><strong><img src="https://www.patreon.com/file?h=45653538&i=7180011" alt="" width="223" height="216" /></strong><strong>Flirtatious Foundry Maps</strong></h2>
 <p><strong>With a renewed focus on quality maps.  All maps are made with FoundryVTT by Flirtatious Mule, and Headghost using DungeonDraft and Forgotten Adventures assets, as well as some custom assets of our own creation, and free animated asset modules from Jinker's and JB2A modules.  Please consider visiting our Patreon and donating.  We don't have perks atm, and don't plan on charging for anything directly, just some support if you enjoy what we're doing and want to see more would be awesome! Thanks for stopping by! </strong></p><a href="https://www.patreon.com/bePatron?u=47204180" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
 <p>&nbsp;</p>
 <h2><a id="user-content-changelog" class="anchor" href="https://github.com/FlirtatiousMule/flirtatiousfoundry/blob/main/README.md#changelog" aria-hidden="true"></a>Changelog</h2>
